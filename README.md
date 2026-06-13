@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Python for Data Science | Advanced SQL | Machine Learning | Data Storytelling**
 - 💬 Ask me about **Power BI | SQL | Business Intelligence | Operations Analytics | Generative AI**
 - 📫 How to reach me **alvifatima0800@gmail.com**
-- 📄 Know about my experiences **4+ years in Operations & Technical Support (Amazon + Apple) → now in Data Analytics**
+- 📄 Know about my experiences **4+ years in Operations & Technical Support (Amazon + Apple + Adobe) → now in Data Analytics**
 - ⚡ Fun fact **⚡ My attention to detail is so strong I'll spot a misaligned column in a dashboard before I notice I haven't eaten all day. 🙃**
   
 ###
