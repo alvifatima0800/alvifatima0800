@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Alveena Fatima</h1>
 
-<h3 align="center">Data Analyst | SQL • Power BI • Python | Turning Raw Data into Actionable Insights</h3>
+<h3 align="center">Data Analyst | Business Intelligence & Data Visualization | Python • SQL • Power BI • Tableau • Excel | KPI Reporting • Dashboard Development • Generative AI |</h3>
 
 ###
 
