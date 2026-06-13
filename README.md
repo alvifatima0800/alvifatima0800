@@ -10,14 +10,13 @@
 
 ###
 
-- 🔭 I'm currently working on **U.S. Airline Performance & Delay Analysis — 5.8M+ flight records using SQL + Power BI**
 - 🤝 I'm looking to collaborate on **Data Analytics projects | BI Dashboards | SQL + Power BI case studies**
 - 🌱 I'm currently learning **Python for Data Science | Advanced SQL | Machine Learning | Data Storytelling**
 - 💬 Ask me about **Power BI | SQL | Business Intelligence | Operations Analytics | Generative AI**
 - 📫 How to reach me **alvifatima0800@gmail.com**
 - 📄 Know about my experiences **4+ years in Operations & Technical Support (Amazon + Apple) → now in Data Analytics**
-- ⚡ Fun fact **I can clean a dataset with 5.8 million rows — but my room? That's an outlier I choose to ignore 😅**
-
+- ⚡ Fun fact **⚡ My attention to detail is so strong I'll spot a misaligned column in a dashboard before I notice I haven't eaten all day. 🙃**
+  
 ###
 
 <h3 align="left">🛠️ Tools & Technologies</h3>
